@@ -1,6 +1,25 @@
 main{
+    flex-grow: 1;
+    display:flex
 
-    background-color: tomato;
+}
+
+.content-container{
+    background-color: aqua;
     flex-grow: 1;
 
+}
+
+.content-container h1{
+    font-size: 7rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.content-container h1 span{
+    font-size: 2rem;
+}
+.social-container{
+    background-color: blue;
+    width: 48px;
 }
