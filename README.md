@@ -1,7 +1,7 @@
 
 # Landing Page  - Doctor Strange
 
-![Doctor Strange](./img/doctorstrangepprt%20(7).png)
+![](./img/doctorstrangepprtsc%20(7).png)
 
 ---
 
