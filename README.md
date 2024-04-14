@@ -1,5 +1,5 @@
 
-# Landing Page  - Doctor Strang
+# Landing Page  - Doctor Strange
 
 ![Doctor Strange](./img/doctorstrangepprt%20(7).png)
 
