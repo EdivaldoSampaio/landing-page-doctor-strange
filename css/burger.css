@@ -1,6 +1,6 @@
 .menu-burger-container{
     position: absolute;
-    display: flex;
+    display: none;
     align-items: center;
     top: 30px;
     right: 30px;
@@ -15,7 +15,7 @@
 .menu-burger::after{
 position: absolute;
 content: "";
-display: block;
+display: flex;
 background-color: white;
 height: 4px;
 width: 36px;
@@ -42,4 +42,10 @@ transition: all 1s;
 
 .menu-burger-container.active .menu-burger::after{
     transform: rotate(-45deg);
+}
+
+@media (max-width:768px) {
+    .menu-burger-container{
+        display: flex;
+    }
 }
